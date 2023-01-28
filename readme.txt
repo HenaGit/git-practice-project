@@ -1,3 +1,3 @@
 Welcome to GitProject!
-Author:Henok Gebrehiwot
+Author:Henok Alemu Gebrehiwot
 Twitter:@henkinsa
